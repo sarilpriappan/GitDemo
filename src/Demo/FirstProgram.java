@@ -6,5 +6,10 @@ public class FirstProgram {
 		// TODO Auto-generated method stub
 System.out.println("hello");
 	}
-
+	
+	//demo for m2
+public void method2(){ 
+	System.out.println("From M2");
+	
+}
 }
